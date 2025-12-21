@@ -60,5 +60,6 @@ android {
 
 dependencies {
     vendorImplementation 'androidx.appcompat:appcompat:1.0.0'
+    vendorImplementation 'androidx.core:core:1.7.0'
     vendorImplementation 'io.github.sinaweibosdk:core:13.10.8@aar'
 }
